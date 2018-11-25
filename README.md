@@ -6,4 +6,4 @@ Simple anaclock write with C++,using Qt  cross-platform application framework/wi
 
 -Create and compile/make by Qt Creator 4.8
 
--Bunding by linuxdeployqt(https://github.com/probonopd/linuxdeployqt)
+-Bunding by linuxdeployqt tool (https://github.com/probonopd/linuxdeployqt)
