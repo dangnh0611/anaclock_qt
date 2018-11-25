@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/tick.wav</file>
+        <file>images/clock.png</file>
+        <file>images/face.png</file>
+        <file>images/center.png</file>
+        <file>images/icon.png</file>
+    </qresource>
+</RCC>
