@@ -10,5 +10,5 @@ Qt is cross-paltform,so the source code can be build on other platforms(Window,M
 
 -Bunding by linuxdeployqt tool (https://github.com/probonopd/linuxdeployqt)
 
-![](anaclock_qt/images/Screenshot from 2018-11-25 23-48-48.png)
+![](https://github.com/dangnh0611/anaclock_qt/blob/master/images/Screenshot%20from%202018-11-25%2023-48-48.png?raw=true)
 
