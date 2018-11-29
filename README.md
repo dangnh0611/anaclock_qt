@@ -2,7 +2,7 @@
 
 Simple anaclock write with C++,using Qt  cross-platform application framework/widget toolkit(https://en.wikipedia.org/wiki/Qt_(software))
 
-Qt is cross-paltform,so the source code can be build on other platforms(Window,MacOS,Android,..)
+Qt is cross-platform,the same source code can be build on other platforms(Window,MacOS,Android,..)
 
 -Basic learning to use the QGraphicsView framework.
 
